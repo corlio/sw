@@ -1,0 +1,26 @@
+[{
+    "id":"bnaba",
+    "title":"Barbares",
+    "count":"9",
+    "descro":"Vos Barbares ne peuvent pas se red&eacute;ployer &agrave; la fin de leur tour. En cas d'&eacute;chec au d&eacute; lors de votre derni&egrave;re conqu&ecirc;te, vos Barbares non utilis&eacute;es doivent rester dans votre main. Ils peuvent par contre se red&eacute;ployer en cas de conqu&ecirc;te d'un autre joueur."
+},{
+    "id":"bnafa",
+    "title":"Farfadets",
+    "count":"6*16",
+    "descro":"Lors du red&eacute;ploiement, vous pouvez placer un {chaudron} par r&eacute;gion occup&eacute;e par vos Farfadets. Tout chaudron vous rapporte 1 jeton de victoire s'il est toujours en place au d&eacute;but de votre prochain tour : placez-le alors parmi vos jetons de victoire. Si un adversaire prend une r&eacute;gion contenant un chaudron, il le r&eacute;cup&egrave;re imm&eacute;diatement. Les chaudrons non-utilis&eacute;s sont perdus lors du d&eacute;clin."
+},{
+    "id":"bnafe",
+    "title":"F&eacute;es",
+    "count":"11",
+    "descro":"Lors du red&eacute;ploiement, vous ne devez laisser qu'une seule F&eacute;e par r&eacute;gion en votre possession. Toutes les autres restent dans votre main jusqu'au prochain tour."
+},{
+    "id":"bnaho",
+    "title":"Homoncules",
+    "count":"5+<i>x</i>/15",
+    "descro":"&Agrave; chaque fois qu'un joueur choisit une combinaison plac&eacute;e plus bas que celle des Homoncules, il y place un Homoncule en plus d'un jeton de victoire. Lorsqu'un joueur choisit les Homoncules, il r&eacute;cup&egrave;re alors ces pions en plus des jetons de victoire et des pions auxquels il a droit."
+},{
+    "id":"bnapy",
+    "title":"Pygm&eacute;es",
+    "count":"6/11",
+    "descro":"&Agrave; chaque fois que vous perdez un Pygm&eacute;e, lancez le d&eacute; de renforts et prenez autant de Pygm&eacute;es dans la r&eacute;serve que le r&eacute;sultat du d&eacute;. D&eacute;ployez-les dans vos r&eacute;gions &agrave; la fin du tour du joueur attaquant."
+}]

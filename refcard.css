@@ -1,0 +1,27 @@
+@media print {
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+table {
+    width: 100%;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+}
+th {
+    text-align: center;
+    vertical-align: middle;
+}
+td {
+    text-align: left;
+    vertical-align: top;
+}
+span.stress {
+    position: relative;
+    font-style: italic;
+    text-decoration: underline;
+}

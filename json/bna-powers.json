@@ -1,0 +1,26 @@
+[{
+    "id":"bnaca",
+    "title":"Catapult&eacute;s",
+    "count":"4*1",
+    "descro":"Une fois par tour, vous pouvez placer la {catapulte} dans une de vos r&eacute;gions pour faire des conqu&ecirc;tes &agrave; distance en sautant par-dessus une r&eacute;gion (y compris le lac, mais pas les mers) et avec 1 pion de moins. La r&eacute;gion qui contient la catapulte est {invuln&eacute;rable}. La catapulte dispara&icirc;t lors du d&eacute;clin."
+},{
+    "id":"bnaco",
+    "title":"Corrompus",
+    "count":"4",
+    "descro":"Chaque fois qu'un adversaire s'empare d'une des r&eacute;gions occup&eacute;es par votre peuple Corrompu, il doit vous donner 1 jeton de victoire (sans jeton, pas de conqu&ecirc;te)."
+},{
+    "id":"bnaim",
+    "title":"Imp&eacute;riaux",
+    "count":"4",
+    "descro":"&Agrave; la fin de votre tour, vous gagnez 1 jeton de victoire en plus pour toute r&eacute;gion occup&eacute;e par votre peuple Imp&eacute;rial au-del&agrave; de 3 : 4 r&eacute;gions = 1 jeton, 5 r&eacute;gions = 2 jetons..."
+},{
+    "id":"bname",
+    "title":"Mercenaires",
+    "count":"4",
+    "descro":"&Agrave; chaque fois que vous voulez conqu&eacute;rir une r&eacute;gion, vous pouvez payer 1 (seul) jeton de victoire pour faire baisser de 2 le co&ucirc;t de la conqu&ecirc;te. S'il s'agit de votre derni&egrave;re conqu&ecirc;te, vous pouvez lancer le d&eacute; de renforts avant de d&eacute;cider de d&eacute;penser 1 jeton."
+},{
+    "id":"bnare",
+    "title":"Retranch&eacute;s",
+    "count":"4",
+    "descro":"Si votre peuple Retranch&eacute; occupe 4 r&eacute;gions ou moins &agrave; la fin de votre tour, prenez 3 jetons de victoire suppl&eacute;mentaires."
+}]

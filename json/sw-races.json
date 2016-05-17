@@ -1,0 +1,71 @@
+[{
+    "id":"swam",
+    "title":"Amazones",
+    "count":"6+4",
+    "descro":"Pendant les conqu&ecirc;tes, vous pouvez utiliser 4 Amazones suppl&eacute;mentaires. Au moment du red&eacute;ploiement (et donc avant le d&eacute;compte des points), ces 4 pions doivent retourner dans votre main et ceci peut conduire &agrave; l'abandon de certaines r&eacute;gions occup&eacute;es."
+},{
+    "id":"swel",
+    "title":"Elfes",
+    "count":"6",
+    "descro":"Lorsqu'un ennemi s'empare d'une de vos r&eacute;gions, vous reprenez en main tous les pions Elfes qui l'occupaient, sans devoir en d&eacute;fausser un. Red&eacute;ployez ces pions comme d'habitude lorsque l'adversaire a fini son tour. Par contre, en cas de conversion par un Sorcier, le pion Elfe converti est d&eacute;fauss&eacute;."
+},{
+    "id":"swge",
+    "title":"G&eacute;ants",
+    "count":"6",
+    "descro":"Vos G&eacute;ants peuvent conqu&eacute;rir toute r&eacute;gion adjacente &agrave; une montagne qu'ils occupent avec 1 pion de moins que n&eacute;cessaire."
+},{
+    "id":"swhr",
+    "title":"Hommes-rats",
+    "count":"8",
+    "descro":"Pas de capacit&eacute; sp&eacute;cifique, ils sont d&eacute;j&agrave; bien assez nombreux !"
+},{
+    "id":"swhu",
+    "title":"Humains",
+    "count":"5",
+    "descro":"Tout champ occup&eacute; par vos Humains rapporte 1 jeton de victoire suppl&eacute;mentaire en fin de tour."
+},{
+    "id":"swmg",
+    "title":"Mages",
+    "count":"5",
+    "descro":"Toute r&eacute;gion qui comporte une source magique occup&eacute;e par vos Mages rapporte 1 jeton de victoire suppl&eacute;mentaire en fin de tour."
+},{
+    "id":"swmp",
+    "title":"Mi-portions",
+    "count":"6*2",
+    "descro":"Vos Mi-portions peuvent entrer sur le plateau par n'importe quelle r&eacute;gion, pas seulement par un bord. Placez une {tani&egrave;re} dans les deux premi&egrave;res r&eacute;gions que vous prenez. Ces r&eacute;gions sont &agrave; pr&eacute;sent {invuln&eacute;rables}. Si une de ces r&eacute;gions est abandonn&eacute;e par les Mi-portions, la tani&egrave;re qui s'y trouve est retir&eacute;e du plateau. En d&eacute;clin, les tani&egrave;res disparaissent."
+},{
+    "id":"swna",
+    "title":"Nains",
+    "count":"3",
+    "descro":"Toute r&eacute;gion qui comporte une mine occup&eacute;e par vos Nains rapporte 1 jeton de victoire suppl&eacute;mentaire en fin de tour. Ce pouvoir continue de s'appliquer m&ecirc;me quand ils sont en d&eacute;clin."
+},{
+    "id":"swor",
+    "title":"Orcs",
+    "count":"5",
+    "descro":"Toute r&eacute;gion non-vide conquise par vos Orcs durant un tour rapporte 1 jeton de victoire suppl&eacute;mentaire &agrave; la fin de ce tour."
+},{
+    "id":"swso",
+    "title":"Sorciers",
+    "count":"5/18",
+    "descro":"&Agrave; chaque tour, pour conqu&eacute;rir une r&eacute;gion, vos Sorciers peuvent remplacer un pion {actif} de chaque adversaire par un des leurs pris dans la r&eacute;serve. Ce pion doit &ecirc;tre le seul de son peuple dans la r&eacute;gion (un antre, une montagne ou une forteresse ne prot&egrave;ge pas contre ce genre de conqu&ecirc;te). Cette r&eacute;gion doit &ecirc;tre adjacente &agrave; une r&eacute;gion appartenant aux Sorciers (sauf Sorciers Volants). Le pion adverse remplac&eacute; (y compris un Elfe) est remis dans la r&eacute;serve."
+},{
+    "id":"swsq",
+    "title":"Squelettes",
+    "count":"6/20",
+    "descro":"Lors du red&eacute;ploiement de vos troupes, prenez 1 nouveau pion Squelette dans la r&eacute;serve pour toute s&eacute;rie de 2 r&eacute;gions non-vides conquises par vos Squelettes lors de ce tour, &agrave; ajouter &agrave; ceux que vous red&eacute;ployez."
+},{
+    "id":"swti",
+    "title":"Tritons",
+    "count":"6",
+    "descro":"Vos Tritons peuvent conqu&eacute;rir toute r&eacute;gion c&ocirc;ti&egrave;re (adjacente aux mers ou au lac) avec 1 pion de moins que n&eacute;cessaire."
+},{
+    "id":"swto",
+    "title":"Trolls",
+    "count":"5*10",
+    "descro":"Placez un {antre} de Troll dans chaque r&eacute;gion occup&eacute;e par vos Trolls. L'antre augmente la d&eacute;fense de la r&eacute;gion d'un point et y reste m&ecirc;me lorsque vos Trolls sont en d&eacute;clin. Si vous quittez la r&eacute;gion ou qu'un adversaire vous en chasse, retirez l'antre."
+},{
+    "id":"swzo",
+    "title":"Zombies",
+    "count":"5",
+    "descro":"Lorsque vos Zombies passent en d&eacute;clin, tous leurs pions restent sur le plateau ! De plus, contrairement aux autres peuples en d&eacute;clin, ils peuvent continuer &agrave; conqu&eacute;rir de nouvelles r&eacute;gions lors des prochains tours et se comportent exactement comme un peuple actif (m&ecirc;me lorsqu'ils sont attaqu&eacute;s), mais leurs conqu&ecirc;tes doivent &ecirc;tre faites au d&eacute;but de votre tour, avant les conqu&ecirc;tes de votre peuple actif."
+}]

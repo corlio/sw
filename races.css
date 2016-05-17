@@ -1,0 +1,12 @@
+@media print {
+    td {
+        padding: 3px;
+        font-size: 12px;
+    }
+}
+@media screen {
+    td {
+        padding: 6px;
+        font-size: 16px;
+    }
+}

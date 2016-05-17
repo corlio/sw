@@ -1,0 +1,101 @@
+[{
+    "id":"swal",
+    "title":"Alchimistes",
+    "count":"4",
+    "descro":"Tant que votre peuple Alchimiste n'est pas en d&eacute;clin, prenez 2 jetons de victoire suppl&eacute;mentaires &agrave; la fin de votre tour."
+},{
+    "id":"swan",
+    "title":"Ancestraux",
+    "count":"5",
+    "descro":"Lorsque votre peuple Ancestral est en d&eacute;clin, il ne compte pas dans la limite qui indique qu'un m&ecirc;me joueur ne peut avoir qu'un seul peuple en d&eacute;clin &agrave; la fois. Les pions de votre peuple Ancestral ne quittent donc le plateau que s'ils sont an&eacute;antis par l'ennemi !"
+},{
+    "id":"swar",
+    "title":"Arm&eacute;s",
+    "count":"4",
+    "descro":"Toute r&eacute;gion peut &ecirc;tre conquise avec 1 pion de peuple de moins que n&eacute;cessaire."
+},{
+    "id":"swah",
+    "title":"Aux deux H&eacute;ros",
+    "count":"5*2",
+    "descro":"&Agrave; la fin de chacun de vos tours, choisissez deux r&eacute;gions que vous occupez et placez un {H&eacute;ros} dans chacune d'entre elles. Tant qu'ils y restent, ces r&eacute;gions sont {invuln&eacute;rables}. Les H&eacute;ros disparaissent lorsque vous passez en d&eacute;clin."
+},{
+    "id":"swba",
+    "title":"B&acirc;tisseurs",
+    "count":"3*6",
+    "descro":"&Agrave; chaque red&eacute;ploiement, ajoutez 1 {forteresse} dans une r&eacute;gion que vous occupez. Elle vous rapportera 1 jeton de victoire suppl&eacute;mentaire &agrave; la fin de chacun de vos tours (sauf en d&eacute;clin). Toute forteresse augmente la d&eacute;fense de la r&eacute;gion d'un point (m&ecirc;me en d&eacute;clin). Si vous quittez la r&eacute;gion ou si vous en &ecirc;tes chass&eacute;, retirez la forteresse. Il ne peut y avoir qu'une seule forteresse par r&eacute;gion."
+},{
+    "id":"swbe",
+    "title":"Berserks",
+    "count":"4",
+    "descro":"Vous pouvez utiliser le d&eacute; de renforts avant chaque conqu&ecirc;te. Lancez d'abord le d&eacute; {puis} choisissez la r&eacute;gion que vous voulez prendre et placez les pions de peuple n&eacute;cessaires (moins le r&eacute;sultat du d&eacute;) pour vous emparer de cette r&eacute;gion."
+},{
+    "id":"swca",
+    "title":"Des Cavernes",
+    "count":"5",
+    "descro":"Toute r&eacute;gion qui comporte une caverne peut &ecirc;tre conquise avec un pion de peuple de moins que n&eacute;cessaire. De plus, pour vos conqu&ecirc;tes, toutes les r&eacute;gions qui comportent une caverne sont consid&eacute;r&eacute;es comme adjacentes entre elles."
+},{
+    "id":"swco",
+    "title":"Des Collines",
+    "count":"4",
+    "descro":"Prenez 1 jeton de victoire suppl&eacute;mentaire pour chaque colline que vous occupez en fin de tour."
+},{
+    "id":"swfo",
+    "title":"Des For&ecirc;ts",
+    "count":"4",
+    "descro":"Prenez 1 jeton de victoire suppl&eacute;mentaire pour chaque for&ecirc;t que vous occupez en fin de tour."
+},{
+    "id":"swma",
+    "title":"Des Marais",
+    "count":"4",
+    "descro":"Prenez 1 jeton de victoire suppl&eacute;mentaire pour chaque marais que vous occupez en fin de tour."
+},{
+    "id":"swdi",
+    "title":"Diplomates",
+    "count":"5",
+    "descro":"&Agrave; la fin de votre tour, vous pouvez choisir un autre joueur comme alli&eacute;, &agrave; condition que vous n'ayez pas attaqu&eacute; son peuple {actif} pendant ce tour. Il ne pourra pas attaquer votre peuple actif avec son peuple actif avant votre prochain tour. Vous pouvez changer d'alli&eacute; &agrave; chaque tour. Les pions en d&eacute;clin ne sont pas concern&eacute;s par cet accord."
+},{
+    "id":"swdc",
+    "title":"Durs &agrave; cuire",
+    "count":"4",
+    "descro":"Vous pouvez poursuivre votre expansion {et} passer en d&eacute;clin imm&eacute;diatement apr&egrave;s avoir pris vos jetons de victoire, ce qui vous &eacute;vite de perdre un tour pour passer en d&eacute;clin. Les r&egrave;gles du d&eacute;clin s'appliquent, mais vous ne marquez pas une seconde fois les points de victoire en fin de tour."
+},{
+    "id":"swdr",
+    "title":"Et leur Dragon",
+    "count":"5*1",
+    "descro":"Une fois par tour, vous pouvez utiliser votre {Dragon} pour conqu&eacute;rir une r&eacute;gion en utilisant un seul pion de peuple. Une fois conquise, placez votre Dragon dans cette r&eacute;gion qui devient alors {invuln&eacute;rable}. Votre Dragon dispara&icirc;t lorsque vous passez en d&eacute;clin."
+},{
+    "id":"swft",
+    "title":"Fortun&eacute;s",
+    "count":"4",
+    "descro":"Prenez 7 jetons de victoire suppl&eacute;mentaires &agrave; la fin de votre premier tour d'expansion (donc une seule fois)."
+},{
+    "id":"swmc",
+    "title":"Marchands",
+    "count":"2",
+    "descro":"Prenez 1 jeton de victoire suppl&eacute;mentaire pour chaque r&eacute;gion que vous occupez en fin de tour."
+},{
+    "id":"swmn",
+    "title":"Marins",
+    "count":"5",
+    "descro":"Vous pouvez consid&eacute;rer les mers et le lac comme trois r&eacute;gions vides et les conqu&eacute;rir. Vous conservez ces r&eacute;gions m&ecirc;me en d&eacute;clin. Les mers et le lac ne peuvent &ecirc;tre occup&eacute;s que par un peuple Marin. Une mer occup&eacute;e par des Marins n'emp&ecirc;che pas les nouveaux peuples d'arriver par cette mer lors de la premi&egrave;re conqu&ecirc;te."
+},{
+    "id":"swmt",
+    "title":"Mont&eacute;s",
+    "count":"5",
+    "descro":"Toute colline et tout champ peuvent &ecirc;tre conquis avec un pion de peuple de moins que n&eacute;cessaire."
+},{
+    "id":"swpi",
+    "title":"Pillards",
+    "count":"5",
+    "descro":"Toute r&eacute;gion non-vide conquise durant ce tour rapporte 1 jeton de victoire suppl&eacute;mentaire en fin de tour."
+},{
+    "id":"swsc",
+    "title":"Scouts",
+    "count":"5*5",
+    "descro":"&Agrave; chaque red&eacute;ploiement, placez les 5 {campements} dans la ou les r&eacute;gions que vous occupez, r&eacute;partis &agrave; votre convenance. Tout campement augmente la d&eacute;fense de 1 et prot&egrave;ge contre les Sorciers mais ils disparaissent lors du d&eacute;clin. Si un adversaire vous chasse d'une r&eacute;gion d&eacute;fendue par un campement, red&eacute;ployez-le comme un pion de peuple."
+},{
+    "id":"swvo",
+    "title":"Volants",
+    "count":"5",
+    "descro":"Vous pouvez conqu&eacute;rir n'importe quelle r&eacute;gion de la carte (sauf mers et lac), m&ecirc;me si elle n'est pas adjacente &agrave; une des v&ocirc;tres. Ceci inclut la premi&egrave;re conqu&ecirc;te qui n'a pas besoin d'&ecirc;tre sur le bord du plateau."
+}]
